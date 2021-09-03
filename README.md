@@ -1,6 +1,6 @@
 - Hi, I am @HamzaBenhamida
 - I am interested in constantly learning new things and creating helpful and meaningful projects to help people.
-- I am currently learning Javascript and React.
+- I am currently learning React.
 - I have strong skills in Java, C++, C, Python. I also have stong knowledge of data structures and algorithms.
 - How to reach me: hba33@sfu.ca
 
