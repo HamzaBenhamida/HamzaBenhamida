@@ -15,7 +15,7 @@
 </p>
 
 <h1>
-  Welcome to the future !
+  Ad infinitum 
 </h1>
 
 <div id="header" align="center">
