@@ -1,13 +1,13 @@
-<div id="badges">
+<div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/hamza-benhamida-a282871b9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<!--   </a>
-  <a href="">
+ </a>
+<!--   <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Portfolio Badge"/>
-  </a> -->
+  </a>  -->
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=HamzaBenhamida&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=HamzaBenhamida&style=flat-square&color=blue" alt=""  align="center" />
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/7NOypWcjs4ANA86Cmn/giphy.gif?cid=790b7611516a9729837471395788d58bfa28d5b67868c644&rid=giphy.gif&ct=g" width="250"/>
