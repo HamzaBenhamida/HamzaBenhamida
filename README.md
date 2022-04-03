@@ -1,12 +1,20 @@
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/7NOypWcjs4ANA86Cmn/giphy.gif?cid=790b7611516a9729837471395788d58bfa28d5b67868c644&rid=giphy.gif&ct=g" width="1100" height="300"/>
+</div>
+
+<h1 align="center">
+  Ad infinitum 
+</h1>
+
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/hamza-benhamida-a282871b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
 <a href="https://github.com/HamzaBenhamida/Portfolio" rel="nofollow">
     <img src="https://camo.githubusercontent.com/dfcd5a59787be3b94dd8904be69b7219937b71389630b3ca41993b16a47fac3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7274666f6c696f2d77686974653f7374796c653d666f722d7468652d626164676526266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&amp;&amp;logoColor=black" style="max-width: 100%;">
   </a>
   <a href="https://discordapp.com/users/Hamza Ben#2915/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="max-width: 100%;">
   </a>
 </div>
 
@@ -14,13 +22,6 @@
 <img src="https://komarev.com/ghpvc/?username=HamzaBenhamida&style=flat-square&color=blue" alt="" />
 </p>
 
-<h1>
-  Ad infinitum 
-</h1>
-
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/7NOypWcjs4ANA86Cmn/giphy.gif?cid=790b7611516a9729837471395788d58bfa28d5b67868c644&rid=giphy.gif&ct=g" width="1100" height="200"/>
-</div>
 
 ---
 
