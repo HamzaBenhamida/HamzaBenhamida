@@ -72,10 +72,6 @@
 
 ---
 
-### My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaBenhamida&layout=compact)](https://github.com/HamzaBenhamida/github-readme-stats)
-
 ### Blog Posts :
 
 Coming soon
